@@ -8,12 +8,9 @@ create-react-app my-app
 cd my-app
 rm -f src/*
 
-Add a file named index.css in the src/ folder with the below link
-https://codepen.io/gaearon/pen/oWWQNa?editors=0100
-Add a file named index.js in the src/ folder with the below link
-https://codepen.io/gaearon/pen/oWWQNa?editors=0010
-Add these three lines to the top of index.js in the src/ folder
+Add a file named index.css in the src/ folder and copy the index.css file in the repository
 
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+Add a file named index.js in the src/ folder nd copy the index.js file in the repository
+
+#below command start the app 
+npm start
