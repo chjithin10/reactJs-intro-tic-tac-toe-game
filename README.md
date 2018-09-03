@@ -13,4 +13,4 @@ Add a file named index.css in the src/ folder and copy the index.css file in the
 Add a file named index.js in the src/ folder nd copy the index.js file in the repository
 
 #below command start the app 
-npm start
+Command :  npm start
